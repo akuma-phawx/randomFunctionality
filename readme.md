@@ -1,6 +1,6 @@
-:collision: This is just some random functionality in JS. Given functions so far:
+:collision: **This is just some random functionality in JS. Given functions so far:**
 
-| Function                  | Does:         |
+| Name                  | Functionality         |
 | ------------------------- |:-------------:|
-| isGivenPrime              | Checks if the given number is a Prime.
-| arrayDuplicateRemoval     | Removes duplicates from an array with 4 different methods.    | 
+| *isGivenPrime*           | Checks if the given number is a Prime.
+| *arrayDuplicateRemoval*     | Removes duplicates from an array with 4 different methods.    | 
