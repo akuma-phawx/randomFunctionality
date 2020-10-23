@@ -2,7 +2,7 @@ let arrayToCheck = [1, 2, 2, 1, 4, 5, 6, 2, 3, 1, 3, 4, 5, 5,13,22,4,1,13,24,22,
 let arrayWithNoDuplicates = [];
 // let len = arrayToCheck.length; //calculates it once, a bit faster.
 
-//brute force algorithm
+//Brute force algorithm
 // for (let i = 0; i < len; i++) {
 //   if (arrayWithNoDuplicates.indexOf(arrayToCheck[i]) === -1) {
 //     arrayWithNoDuplicates.push(arrayToCheck[i]);
