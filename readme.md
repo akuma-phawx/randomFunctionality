@@ -2,5 +2,5 @@
 
 | Name                  | Functionality         |
 | ------------------------- |:-------------:|
-| *isGivenPrime*           | Checks if the given number is a Prime.
+| *isGivenPrime*           | Checks if the given number is a prime number.
 | *arrayDuplicateRemoval*     | Removes duplicates from an array with 4 different methods.    | 
