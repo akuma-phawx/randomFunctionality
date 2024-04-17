@@ -1,4 +1,4 @@
-:collision: **This is just some random functionality in JS. Given functions so far:** !
+:collision: **This is just some random functionality in JS. Given functions so far:**
 
 | Name                  | Functionality         |
 | ------------------------- |:-------------:|
